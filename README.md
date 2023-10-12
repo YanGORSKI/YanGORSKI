@@ -41,20 +41,10 @@
     </tr>
 </table>
 
-
 ## 🧠 Conhecimento:
-### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,php&theme=light)](https://skillicons.dev)
-### Marcação de Formatação
-[![My Skills](https://skillicons.dev/icons?i=md,html,css&theme=light)](https://skillicons.dev)
-### Bancos de Dados
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=light)](https://skillicons.dev)
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,kafka&theme=light)](https://skillicons.dev)
-### Hospedagem
-[![My Skills](https://skillicons.dev/icons?i=heroku&theme=light)](https://skillicons.dev)
-### Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vscode,regex,github,postman&theme=light)](https://skillicons.dev)
+| Linguagens | Marcação de Formatação | Bancos de Dados | Frameworks | Hospedagem | Ferramentas |
+| --- | --- | --- | --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=java,py,js,php&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=md,html,css&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,kafka&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=heroku,aws&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,regex,github,postman&theme=light)](https://skillicons.dev)
 
 ## 📜 Certificados:
 <img src="https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png" alt="Bootcamp Santander" width="100px"><a href="https://github.com/YanGORSKI/Bootcamps/blob/main/Banco%20PAN%20Java%20Developer.pdf" target="_blank">
