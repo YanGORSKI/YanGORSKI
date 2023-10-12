@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/YanGORSKI/YanGORSKI/main/README%20BANNER.png" alt="UNESP">
 <div>
 <a href="https://www.linkedin.com/in/yan-gorski/" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="LinkedIn" width="50px" height="50px">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="LinkedIn" width="25px" height="25px">
     </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="[https://www.linkedin.com/in/yan-gorski/](https://web.dio.me/users/yangorski93)" target="_blank">
-        <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="LinkedIn" width="50px" height="50px">
+        <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="LinkedIn" width="25px" height="25px">
     </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
     <a href="mailto:gorski.yan.93@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50px" height="50px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="25px" height="25px">
     </a>
 </div>
 
@@ -37,16 +37,38 @@
   <tr>
         <td style="border: none;"><img src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-12.png" alt="UNESP" height="50px"></td>
         <td style="border: none;"><strong>Graduação em Química</strong></td>
-        <td style="border: none;">1Sem/2020 -> 1Sem/2014</td>
+        <td style="border: none;">1Sem/2015 -> 2Sem/2019</td>
     </tr>
 </table>
 
 
-Linguagens de Programação e Marcação
+## 🧠 Conhecimento:
+### Linguagens
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,php&theme=light)](https://skillicons.dev)
+### Marcação de Formatação
+[![My Skills](https://skillicons.dev/icons?i=md,html,css&theme=light)](https://skillicons.dev)
+### Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=light)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring,kafka&theme=light)](https://skillicons.dev)
+### Hospedagem
+[![My Skills](https://skillicons.dev/icons?i=heroku&theme=light)](https://skillicons.dev)
+### Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=vscode,regex,github,postman&theme=light)](https://skillicons.dev)
 
-
-## 🎓 Certificados:
-
+## 📜 Certificados:
+<img src="https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png" alt="Bootcamp Santander" width="100px"><a href="https://github.com/YanGORSKI/Bootcamps/blob/main/Banco%20PAN%20Java%20Developer.pdf" target="_blank">
+        <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" alt="Bootcamp" width="100px">
+</a>
+<a href="https://github.com/YanGORSKI/Bootcamps/blob/main/GFT%20Start%20%235%20Java.pdf" target="_blank">
+        <img src="https://hermes.dio.me/tracks/6e1f59b9-2207-40b8-8cd4-feef0e668832.png" alt="Bootcamp" width="100px">
+</a>
+<a href="https://github.com/YanGORSKI/Bootcamps/blob/main/GFT%20Quality%20Assurance%20%231.pdf" target="_blank">
+        <img src="https://hermes.dio.me/tracks/936b7d01-ec68-409b-9db7-e1a5c06a3efe.png" alt="Bootcamp" width="100px">
+</a>
+<a href="https://github.com/YanGORSKI/Bootcamps/blob/main/GFT%20Start%20%234%20Java.pdf" target="_blank">
+        <img src="https://hermes.dio.me/tracks/f8bc60f2-9ca1-4389-be8b-dd0a18827f8c.png" alt="Bootcamp" width="100px">
+</a>
 
 ## ⚙️ Repositórios de Projetos
 
