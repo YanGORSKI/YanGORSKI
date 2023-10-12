@@ -1,4 +1,7 @@
 <img src="https://raw.githubusercontent.com/YanGORSKI/YanGORSKI/main/README%20BANNER.png" alt="UNESP">
+
+______
+
 <div>
 <a href="https://www.linkedin.com/in/yan-gorski/" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="LinkedIn" width="25px" height="25px">
@@ -12,6 +15,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="25px" height="25px">
     </a>
 </div>
+
+________
 
 ## 💻 Experiência Profissional:
 <div>
