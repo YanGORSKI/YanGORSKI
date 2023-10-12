@@ -27,7 +27,7 @@
     <tr>
         <td style="border: none;"><img src="https://yt3.googleusercontent.com/ytc/APkrFKbAeZX3MfhylA7vRcY7d0dlnqbl7yxRsf6wbeornw=s900-c-k-c0x00ffffff-no-rj" alt="UNIVESP" height="50px"></td>
         <td style="border: none;"><strong>Bacharelado em Tecnologia da Informação</strong></td>
-      <td style="border: none;">2Sem/2022 -> Presente</td>
+      <td style="border: none;">2Sem/2022 → Presente</td>
     </tr>
   <tr>
         <td style="border: none;"><img src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-12.png" alt="UNESP" height="50px"></td>
@@ -37,7 +37,7 @@
   <tr>
         <td style="border: none;"><img src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-12.png" alt="UNESP" height="50px"></td>
         <td style="border: none;"><strong>Graduação em Química</strong></td>
-        <td style="border: none;">1Sem/2015 -> 2Sem/2019</td>
+        <td style="border: none;">1Sem/2015 → 2Sem/2019</td>
     </tr>
 </table>
 
@@ -62,6 +62,6 @@
 
 ## ⚙️ Repositórios de Projetos
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YanGORSKI&theme=highcontrast&line_height=40&hide=css&layout=compact"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YanGORSKI&theme=merko&line_height=40&layout=compact"/> </a>
 
 ---
