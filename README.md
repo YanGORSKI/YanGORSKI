@@ -20,7 +20,7 @@
 </a>
 </div>
 
-- *Desenvolvedor Java* - 06/2022 -> Presente
+- *Desenvolvedor Java* - 06/2022 → Presente
 
 ## 🎓 Formação Acadêmica:
 <table style="border: none;">
@@ -32,7 +32,7 @@
   <tr>
         <td style="border: none;"><img src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-12.png" alt="UNESP" height="50px"></td>
         <td style="border: none;"><strong>Mestrado em Química</strong></td>
-        <td style="border: none;">1Sem/2020 -> 2Sem/2023</td>
+        <td style="border: none;">1Sem/2020 → 2Sem/2023</td>
     </tr>
   <tr>
         <td style="border: none;"><img src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-12.png" alt="UNESP" height="50px"></td>
