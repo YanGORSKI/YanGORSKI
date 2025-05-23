@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/YanGORSKI/YanGORSKI/main/README%20BANNER.png" alt="UNESP">
+<img src="https://raw.githubusercontent.com/YanGORSKI/YanGORSKI/main/README%20BANNER.png" alt="Y4NG0R5K1">
 
 ______
 
@@ -20,19 +20,27 @@ ________
 
 ## 💻 Experiência Profissional:
 <div>
+<a href="https://invillia.ai/en/home/" target="_blank">
+        <img src="thumbnail-invillia.jpg" alt="Ottimizza" height="100px">
+</a>
+</div>
+
+- *Desenvolvedor Backend* - 09/2023 → Presente
+
+<div>
 <a href="https://ottimizza.com.br" target="_blank">
         <img src="https://ottimizza.com.br/wp-content/uploads/2016/03/logo-default.png" alt="Ottimizza" height="50px">
 </a>
 </div>
 
-- *Desenvolvedor Java* - 06/2022 → Presente
+- *Desenvolvedor Java* - 06/2022 → 09/2023
 
 ## 🎓 Formação Acadêmica:
 <table style="border: none;">
     <tr>
         <td style="border: none;"><img src="https://yt3.googleusercontent.com/ytc/APkrFKbAeZX3MfhylA7vRcY7d0dlnqbl7yxRsf6wbeornw=s900-c-k-c0x00ffffff-no-rj" alt="UNIVESP" height="50px"></td>
         <td style="border: none;"><strong>Bacharelado em Tecnologia da Informação</strong></td>
-      <td style="border: none;">2Sem/2022 → Presente</td>
+      <td style="border: none;">2Sem/2022 → 2Sem/2025</td>
     </tr>
   <tr>
         <td style="border: none;"><img src="https://logodownload.org/wp-content/uploads/2015/02/unesp-logo-12.png" alt="UNESP" height="50px"></td>
@@ -49,7 +57,7 @@ ________
 ## 🧠 Conhecimento:
 | Linguagens | Marcação de Formatação | Bancos de Dados | Frameworks | Hospedagem | Ferramentas |
 | --- | --- | --- | --- | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=java,py,js,php&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=md,html,css&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,kafka&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=heroku,aws&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,regex,github,postman&theme=light)](https://skillicons.dev)
+| [![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py,js&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=md,html&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css,tailwind&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,react&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=heroku&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,regex,github,postman&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,godot&theme=light)](https://skillicons.dev) |
 
 ## 📜 Certificados:
 </a>
