@@ -61,21 +61,31 @@ ________
 
 ## 📜 Certificados:
 </a>
+<a href="https://github.com/YanGORSKI/Bootcamps/blob/main/Java%20AI%20Powered.pdf" target="_blank">
+        <img src="https://hermes.dio.me/tracks/fb1b88ee-257f-4870-8cf8-1339b38c188d.png" alt="Bootcamp" height="100px">
+</a>
+
+</a>
+<a href="https://github.com/YanGORSKI/Bootcamps/blob/main/Desenvolvimento%20Backend%20com%20Kotlin.pdf" target="_blank">
+        <img src="https://hermes.dio.me/tracks/2ab27303-ccbe-46a5-8138-c50c29175960.png" alt="Bootcamp" height="120px">
+</a>
+
+</a>
 <a href="https://github.com/YanGORSKI/Bootcamps/blob/main/Santander%20Bootcamp%202023%20-%20Backend%20Java.pdf" target="_blank">
-        <img src="https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png" alt="Bootcamp" width="100px">
+        <img src="https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png" alt="Bootcamp" height="100px">
 </a>
 
 <a href="https://github.com/YanGORSKI/Bootcamps/blob/main/Banco%20PAN%20Java%20Developer.pdf" target="_blank">
-        <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" alt="Bootcamp" width="100px">
+        <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" alt="Bootcamp" height="100px">
 </a>
 <a href="https://github.com/YanGORSKI/Bootcamps/blob/main/GFT%20Start%20%235%20Java.pdf" target="_blank">
-        <img src="https://hermes.dio.me/tracks/6e1f59b9-2207-40b8-8cd4-feef0e668832.png" alt="Bootcamp" width="100px">
+        <img src="https://hermes.dio.me/tracks/6e1f59b9-2207-40b8-8cd4-feef0e668832.png" alt="Bootcamp" height="100px">
 </a>
 <a href="https://github.com/YanGORSKI/Bootcamps/blob/main/GFT%20Quality%20Assurance%20%231.pdf" target="_blank">
-        <img src="https://hermes.dio.me/tracks/936b7d01-ec68-409b-9db7-e1a5c06a3efe.png" alt="Bootcamp" width="100px">
+        <img src="https://hermes.dio.me/tracks/936b7d01-ec68-409b-9db7-e1a5c06a3efe.png" alt="Bootcamp" height="100px">
 </a>
 <a href="https://github.com/YanGORSKI/Bootcamps/blob/main/GFT%20Start%20%234%20Java.pdf" target="_blank">
-        <img src="https://hermes.dio.me/tracks/f8bc60f2-9ca1-4389-be8b-dd0a18827f8c.png" alt="Bootcamp" width="100px">
+        <img src="https://hermes.dio.me/tracks/f8bc60f2-9ca1-4389-be8b-dd0a18827f8c.png" alt="Bootcamp" height="100px">
 </a>
 
 ## ⚙️ Repositórios de Projetos
