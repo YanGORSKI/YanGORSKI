@@ -59,6 +59,12 @@ ________
 | --- | --- | --- | --- | --- | --- |
 | [![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py,js&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=md,html&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css,tailwind&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,react&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=heroku&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,regex,github,postman&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,godot&theme=light)](https://skillicons.dev) |
 
+## 🏅 Certificações:
+</a>
+<a href="https://www.credly.com/badges/24856925-0fd1-47c4-ac43-04fa10aa23f0" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="GitHub Copilot" height="100px">
+</a>
+
 ## 📜 Certificados:
 </a>
 <a href="https://github.com/YanGORSKI/Bootcamps/blob/main/Java%20AI%20Powered.pdf" target="_blank">
